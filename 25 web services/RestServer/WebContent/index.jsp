@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hhhhhhhhhhh
+<a href="ses/rhr">Click</a>
 </body>
 </html>
